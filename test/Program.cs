@@ -12,7 +12,7 @@ namespace test
         {
             Console.Write("Saisissez votre nom et prenom : ");
             string nom = Console.ReadLine();
-            Console.WriteLine("Bonjour " + nom);
+            Console.WriteLine("Bonjour Monsieur " + nom+".");
             Console.ReadLine();
         }
     }
